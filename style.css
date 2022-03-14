@@ -1,0 +1,353 @@
+* {
+    margin: 0;
+}
+
+.container1 {
+
+    width: 95%;
+    height: 550px;
+    margin-left: 20px;
+    overflow: hidden;
+}
+
+.search {
+    width: 100%;
+    height: 30px;
+    font-family: monospace;
+    border-color: transparent;
+
+}
+
+.head {
+    text-align: center;
+    background-color: #ede7de;
+    padding: 25px;
+}
+
+.logo {
+    margin-left: 45%;
+    margin-right: 55%;
+}
+
+.options {
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.options a {
+    text-decoration: none;
+    font-family: monospace;
+    font-size: 23px;
+    margin-left: 25px;
+    margin-right: 25px;
+    color: black;
+    cursor: pointer;
+}
+
+.description1 {
+    text-align: center;
+    font-family: monospace;
+    font-size: 35px;
+}
+
+.sec {
+
+    display: inline-block;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.box1 {
+    width: 50%;
+    height: 200px;
+    background-color: #ede7de;
+    text-align: center;
+}
+
+.box2 {
+    width: 50%;
+    height: 200px;
+    background-color: white;
+    text-align: center;
+
+
+
+}
+
+#des {
+    text-align: center;
+    width: 80%;
+    padding-left: 25px;
+    height: 25px;
+    margin-top: 30px;
+
+}
+
+
+.btn {
+    background-color: black;
+    color: white;
+    font-family: monospace;
+    margin-left: 40%;
+    margin-right: 40%;
+    width: 200px;
+    padding: 10px;
+    border-color: transparent;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.btn:hover {
+    background-color: rgba(0, 0, 0, 0.815);
+}
+
+.slagon {
+
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 23px;
+}
+
+.container4 {
+    background-color: #ede7de;
+
+    text-align: center;
+
+}
+
+.main {
+
+    height: 400px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.sec1 {
+    width: 50%;
+    text-align: center;
+    margin-top: 0;
+}
+
+.sec2 {
+    width: 50%;
+    text-align: center;
+    margin-top: 0;
+}
+
+.btn3 {
+    background-color: black;
+    color: white;
+    width: 180px;
+    font-family: sans-serif;
+    padding: 8px;
+    cursor: pointer;
+    border-color: transparent;
+    font-size: 15px;
+}
+
+.btn3:hover {
+    background-color: rgba(0, 0, 0, 0.774);
+}
+
+.note {
+    font-family: monospace;
+    font-size: 11px;
+    padding-bottom: 10px;
+}
+
+/* explore */
+.container5 {
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+    text-align: center;
+
+}
+
+.explore {
+    font-family: sans-serif;
+    font-size: 30px;
+    margin-top: 55px;
+
+}
+
+.container6 {
+
+    width: 100%;
+    height: 600px;
+    overflow: hidden;
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.para1 {
+
+    text-align: center;
+    padding: 10px;
+
+}
+
+.para2 {
+
+    text-align: center;
+    padding: 10px;
+}
+
+.para3 {
+
+    text-align: center;
+    padding: 10px;
+}
+
+.p1 {
+
+    position: relative;
+    padding: 10px;
+    width: 60%;
+    font-family: monospace;
+    font-size: 18px;
+    overflow: hidden;
+    margin-left: 20%;
+    margin-right: 20%
+}
+
+.p2 {
+
+    position: relative;
+    padding: 10px;
+    width: 60%;
+    font-family: monospace;
+    font-size: 18px;
+    overflow: hidden;
+    margin-left: 20%;
+    margin-right: 20%
+}
+
+.p3 {
+
+    position: relative;
+    padding: 10px;
+    width: 60%;
+    font-family: monospace;
+    font-size: 18px;
+    overflow: hidden;
+    margin-left: 20%;
+    margin-right: 20%
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+#imga1 {
+    border-radius: 12px;
+
+}
+
+#imga2 {
+    border-radius: 12px;
+
+}
+
+#imga3 {
+    border-radius: 12px;
+
+}
+
+.container7 {
+    height: 100px;
+    width: 100%;
+    font-family: monospace;
+    text-align: center;
+    overflow: hidden;
+    font-size: 27px;
+    padding-top: 20px;
+}
+
+.container8 {
+    height: 150px;
+    text-align: center;
+    font-family: monospace;
+    font-size: 18px;
+    padding-top: 50px;
+
+}
+
+#what {
+    padding: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.container9 {
+
+    height: 150px;
+    padding-left: 100px;
+    font-family: monospace;
+    font-size: 19px;
+}
+
+.link {
+    padding: 10px;
+    margin-left: 30px;
+    margin-top: 20px;
+
+}
+
+.facebook {
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 30px
+}
+
+.twitter {
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 30px
+}
+
+.youtube {
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 30px
+}
+
+.instagram {
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+/*  */
+.container10 {
+
+    width: 100%;
+    height: 250px;
+    display: flex;
+    flex-direction: row;
+    overflow: hidden;
+}
+
+.secc {
+
+    text-align: center;
+    width: 20%;
+    height: 150px;
+    margin-top: 50px;
+    padding: 5px;
+    font-family: sans-serif;
+}
+.container11{
+    text-align: center;
+    font-family: monospace;
+    opacity: 0.5;
+    padding: 50px;
+    padding-left:50px;
+    padding-right: 50px;
+}
